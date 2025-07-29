@@ -7,8 +7,7 @@ This app allows users to **add**, **delete**, **update**, and **display todos** 
 
 ## 📸 Preview
 
-![Screenshot of Todo App](screenshot.png)  
-<sub>👉 Replace this with a real screenshot of your app</sub>
+![Screenshot of Todo App](screenshot.png)
 
 ---
 
